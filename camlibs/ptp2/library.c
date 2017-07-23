@@ -3202,7 +3202,7 @@ capturetriggered:
 }
 
 /* 60 seconds timeout in ms ... (for long cycles) */
-#define EOS_CAPTURE_TIMEOUT (60*1000)
+#define EOS_CAPTURE_TIMEOUT (80*1000)
 
 /* This is currently the capture method used by the EOS 400D
  * ... in development.
